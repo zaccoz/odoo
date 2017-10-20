@@ -1,22 +1,19 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# * web_view_editor
-# 
-# Translators:
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2014
+#	* web_view_editor
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 8.0\n"
+"Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-21 14:09+0000\n"
-"PO-Revision-Date: 2015-07-17 08:13+0000\n"
-"Last-Translator: Martin Trigaux\n"
-"Language-Team: Spanish (Argentina) (http://www.transifex.com/odoo/odoo-8/language/es_AR/)\n"
+"POT-Creation-Date: 2016-03-17 16:32+0000\n"
+"PO-Revision-Date: 2016-03-17 16:32+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: es_AR\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: \n"
 
 #. module: web_view_editor
 #. openerp-web
@@ -28,8 +25,8 @@ msgstr "No se puede Actualizar la Vista"
 #. module: web_view_editor
 #. openerp-web
 #: code:addons/web_view_editor/static/src/js/view_editor.js:109
-#: code:addons/web_view_editor/static/src/js/view_editor.js:850
-#: code:addons/web_view_editor/static/src/js/view_editor.js:978
+#: code:addons/web_view_editor/static/src/js/view_editor.js:852
+#: code:addons/web_view_editor/static/src/js/view_editor.js:980
 #, python-format
 msgid "Cancel"
 msgstr "Cancelar"
@@ -114,7 +111,7 @@ msgstr "Administrar Vistas (%s)"
 
 #. module: web_view_editor
 #. openerp-web
-#: code:addons/web_view_editor/static/src/js/view_editor.js:990
+#: code:addons/web_view_editor/static/src/js/view_editor.js:992
 #, python-format
 msgid "New Field"
 msgstr "Nuevo Campo"
@@ -135,8 +132,8 @@ msgstr "Vista Previa"
 
 #. module: web_view_editor
 #. openerp-web
-#: code:addons/web_view_editor/static/src/js/view_editor.js:829
-#: code:addons/web_view_editor/static/src/js/view_editor.js:955
+#: code:addons/web_view_editor/static/src/js/view_editor.js:831
+#: code:addons/web_view_editor/static/src/js/view_editor.js:957
 #, python-format
 msgid "Properties"
 msgstr "Propiedades"
@@ -171,8 +168,8 @@ msgstr "Los siguientes campos son inválidos:"
 
 #. module: web_view_editor
 #. openerp-web
-#: code:addons/web_view_editor/static/src/js/view_editor.js:832
-#: code:addons/web_view_editor/static/src/js/view_editor.js:958
+#: code:addons/web_view_editor/static/src/js/view_editor.js:834
+#: code:addons/web_view_editor/static/src/js/view_editor.js:960
 #, python-format
 msgid "Update"
 msgstr "Actualizar"
@@ -183,3 +180,4 @@ msgstr "Actualizar"
 #, python-format
 msgid "View Editor %d - %s"
 msgstr "Ver Editor %d - %s"
+
